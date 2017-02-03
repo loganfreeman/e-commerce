@@ -6,3 +6,4 @@
 - [elcodi](http://elcodi.io/docs/quick-start/)
 - [WellCommerce](https://github.com/WellCommerce/WellCommerce)
 - [Sylius](https://github.com/Sylius/Sylius)
+- [antVel](https://github.com/ant-vel/antVel)
