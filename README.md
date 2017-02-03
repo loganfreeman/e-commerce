@@ -5,3 +5,4 @@
 - [bamboo](https://github.com/elcodi/bamboo)
 - [elcodi](http://elcodi.io/docs/quick-start/)
 - [WellCommerce](https://github.com/WellCommerce/WellCommerce)
+- [Sylius](https://github.com/Sylius/Sylius)
